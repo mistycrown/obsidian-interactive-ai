@@ -1,0 +1,16 @@
+# 依赖包
+node_modules/
+venv/
+__pycache__/
+
+# 环境文件
+.env
+.env.local
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db 
